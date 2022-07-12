@@ -20,3 +20,7 @@ substr(start, length)
 slice() extracts a part of a string and returns the extracted part in a new string.
 
 The method takes 2 parameters: the start position, and the end position (end not included).
+### JavaScript String substring()
+substring() is similar to slice().
+
+The difference is that start and end values less than 0 are treated as 0 in substring().
