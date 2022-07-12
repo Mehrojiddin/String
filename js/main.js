@@ -37,3 +37,8 @@
 // JavaScript String trim()
 // let text1 = "      Hello World!      ";
 // let text2 = text1.trim();
+
+
+// JavaScript String padStart()
+let text = "5";
+let padded = text.padStart(4,"x");
