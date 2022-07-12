@@ -24,3 +24,8 @@ The method takes 2 parameters: the start position, and the end position (end not
 substring() is similar to slice().
 
 The difference is that start and end values less than 0 are treated as 0 in substring().
+
+### JavaScript String substr()
+substr() is similar to slice().
+
+The difference is that the second parameter specifies the length of the extracted part.
