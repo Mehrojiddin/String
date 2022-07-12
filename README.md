@@ -29,3 +29,7 @@ The difference is that start and end values less than 0 are treated as 0 in subs
 substr() is similar to slice().
 
 The difference is that the second parameter specifies the length of the extracted part.
+
+### Replacing String Content
+
+The replace() method replaces a specified value with another value in a string:

@@ -11,5 +11,9 @@
 // let part = str.substring(7, 13);
 
 // JavaScript String substr()
-let str = "Apple, Banana, Kiwi";
-let part = str.substr(7, 6);
+// let str = "Apple, Banana, Kiwi";
+// let part = str.substr(7, 6);
+
+// Replacing String Content
+let text = "Please visit Microsoft!";
+let newText = text.replace("Microsoft", "W3Schools");
