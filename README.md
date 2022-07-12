@@ -45,3 +45,6 @@ concat() joins two or more strings:
 ### JavaScript String trim()
 The trim() method removes whitespace from both sides of a string:
 
+### JavaScript String Padding
+ECMAScript 2017 added two String methods: padStart() and padEnd() to support padding at the beginning and at the end of a string.
+
