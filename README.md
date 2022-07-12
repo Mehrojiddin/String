@@ -69,3 +69,7 @@ The charAt() method returns the character at a specified index (position) in a s
 The charCodeAt() method returns the unicode of the character at a specified index in a string:
 
 The method returns a UTF-16 code (an integer between 0 and 65535).
+
+
+### JavaScript String split()
+A string can be converted to an array with the split() method:

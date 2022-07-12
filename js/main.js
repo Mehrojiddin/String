@@ -55,5 +55,10 @@
 
 
 // JavaScript String charCodeAt()
-let text = "HELLO WORLD";
-let char = text.charCodeAt(0);
+// let text = "HELLO WORLD";
+// let char = text.charCodeAt(0);
+
+// JavaScript String split()
+text.split(",")    // Split on commas
+text.split(" ")    // Split on spaces
+text.split("|")    // Split on pipe
