@@ -61,3 +61,6 @@ charAt(position)
 charCodeAt(position)
 Property access [ ]
 
+### JavaScript String charAt()
+The charAt() method returns the character at a specified index (position) in a string:
+

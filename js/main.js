@@ -45,5 +45,10 @@
 
 
 // JavaScript String padEnd()
-let text = "5";
-let padded = text.padEnd(4,"x");
+// let text = "5";
+// let padded = text.padEnd(4,"x");
+
+
+// JavaScript String charAt()
+let text = "HELLO WORLD";
+let char = text.charAt(0);
