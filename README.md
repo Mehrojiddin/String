@@ -42,3 +42,6 @@ The replace() method replaces a specified value with another value in a string:
 ### JavaScript String concat()
 concat() joins two or more strings:
 
+### JavaScript String trim()
+The trim() method removes whitespace from both sides of a string:
+
