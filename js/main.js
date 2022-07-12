@@ -15,5 +15,9 @@
 // let part = str.substr(7, 6);
 
 // Replacing String Content
-let text = "Please visit Microsoft!";
-let newText = text.replace("Microsoft", "W3Schools");
+// let text = "Please visit Microsoft!";
+// let newText = text.replace("Microsoft", "W3Schools");
+
+// JavaScript String toUpperCase()
+let text1 = "Hello World!";
+let text2 = text1.toUpperCase();

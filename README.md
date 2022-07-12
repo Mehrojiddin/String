@@ -33,3 +33,6 @@ The difference is that the second parameter specifies the length of the extracte
 ### Replacing String Content
 
 The replace() method replaces a specified value with another value in a string:
+
+
+### JavaScript String toUpperCase()
