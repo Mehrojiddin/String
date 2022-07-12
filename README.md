@@ -6,5 +6,12 @@ Primitive values, like "John Doe", cannot have properties or methods (because th
 
 But with JavaScript, methods and properties are also available to primitive values, because JavaScript treats primitive values as objects when executing methods and properties.
 
-# JavaScript String Length
+## JavaScript String Length
 The length property returns the length of a string:
+
+## Extracting String Parts
+There are 3 methods for extracting a part of a string:
+
+slice(start, end)
+substring(start, end)
+substr(start, length)
