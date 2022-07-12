@@ -19,5 +19,10 @@
 // let newText = text.replace("Microsoft", "W3Schools");
 
 // JavaScript String toUpperCase()
-let text1 = "Hello World!";
-let text2 = text1.toUpperCase();
+// let text1 = "Hello World!";
+// let text2 = text1.toUpperCase();
+
+
+// JavaScript String toLowerCase()
+let text1 = "Hello World!";       // String
+let text2 = text1.toLowerCase();  // text2 is text1 converted to lower

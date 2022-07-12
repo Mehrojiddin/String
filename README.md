@@ -36,3 +36,6 @@ The replace() method replaces a specified value with another value in a string:
 
 
 ### JavaScript String toUpperCase()
+
+### JavaScript String toLowerCase()
+
