@@ -50,5 +50,10 @@
 
 
 // JavaScript String charAt()
+// let text = "HELLO WORLD";
+// let char = text.charAt(0);
+
+
+// JavaScript String charCodeAt()
 let text = "HELLO WORLD";
-let char = text.charAt(0);
+let char = text.charCodeAt(0);
