@@ -51,3 +51,6 @@ ECMAScript 2017 added two String methods: padStart() and padEnd() to support pad
 ### JavaScript String padStart()
 The padStart() method pads a string with another string:
 
+### JavaScript String padEnd()
+The padEnd() method pads a string with another string:
+

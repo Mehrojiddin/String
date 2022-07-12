@@ -40,5 +40,10 @@
 
 
 // JavaScript String padStart()
+// let text = "5";
+// let padded = text.padStart(4,"x");
+
+
+// JavaScript String padEnd()
 let text = "5";
-let padded = text.padStart(4,"x");
+let padded = text.padEnd(4,"x");
