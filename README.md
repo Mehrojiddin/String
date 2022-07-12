@@ -54,3 +54,10 @@ The padStart() method pads a string with another string:
 ### JavaScript String padEnd()
 The padEnd() method pads a string with another string:
 
+### Extracting String Characters
+There are 3 methods for extracting string characters:
+
+charAt(position)
+charCodeAt(position)
+Property access [ ]
+
