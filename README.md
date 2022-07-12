@@ -39,3 +39,6 @@ The replace() method replaces a specified value with another value in a string:
 
 ### JavaScript String toLowerCase()
 
+### JavaScript String concat()
+concat() joins two or more strings:
+

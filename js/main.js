@@ -24,5 +24,11 @@
 
 
 // JavaScript String toLowerCase()
-let text1 = "Hello World!";       // String
-let text2 = text1.toLowerCase();  // text2 is text1 converted to lower
+// let text1 = "Hello World!";       // String
+// let text2 = text1.toLowerCase();  // text2 is text1 converted to lower
+
+
+// JavaScript String concat()
+let text1 = "Hello";
+let text2 = "World";
+let text3 = text1.concat(" ", text2);
